@@ -17,6 +17,8 @@ public class LargestNum {
             System.out.println(a + " is the largest number");
         else if (a < b && b > c)
             System.out.println(b + " is the largest number");
+        else if (a == b && b == c)
+            System.out.println("Numbers are equal");
         else
             System.out.println(c + " is the largest number");
 

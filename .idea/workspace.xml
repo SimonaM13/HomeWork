@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8028239-957b-4c3d-96e3-53214c08cd47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task1/MyFirstHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/WordsCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task3/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task3/LargestNum.java" afterDir="false" />
-    </list>
+    <list default="true" id="b8028239-957b-4c3d-96e3-53214c08cd47" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Application.LargestNum">
@@ -146,6 +131,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682592664615</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1682596492919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682596492919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
